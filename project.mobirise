@@ -435,7 +435,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/-120x1000.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/-120x1002.jpg",
                     "link": "http://www.hansolcos.com/shop/main/index.php",
                     "active": true,
                     "alt": "",
@@ -474,7 +474,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/-120x1001.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/-120x1003.jpg",
                     "link": "http://knuric.kr/new/index.php",
                     "active": true,
                     "alt": "",
