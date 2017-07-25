@@ -945,6 +945,7 @@ h6,
 }
 
 
+
 #menu-1k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1008,6 +1009,9 @@ h6,
 #menu-1k .link[aria-expanded="true"],
 #menu-1k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#extHeader3-1p SPAN {
+  font-family: 'Montserrat', sans-serif;
 }
 #extFeatures13-1n .etl-icon {
   color: #666666;
