@@ -437,7 +437,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/-120x10030.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/-120x10038.jpg",
                     "link": "http://www.hansolcos.com/shop/main/index.php",
                     "active": true,
                     "alt": "",
@@ -476,7 +476,7 @@
                 "active": false,
                 "media": {
                   "image": {
-                    "src": "@PROJECT_PATH@/assets/images/-120x10031.jpg",
+                    "src": "@PROJECT_PATH@/assets/images/-120x10039.jpg",
                     "link": "http://knuric.kr/new/index.php",
                     "active": true,
                     "alt": "",
@@ -3068,7 +3068,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x84832.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84840.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3084,7 +3084,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x84833.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x84841.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
