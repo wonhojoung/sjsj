@@ -737,6 +737,13 @@ h6,
 #menu-d .dropdown-item[aria-expanded="true"] {
   color: #2969b0!important;
 }
+#extHeader11-37 SPAN {
+  font-size: 60px;
+}
+#header3-39 .mbr-section-title,
+#header3-39 .mbr-section-subtitle {
+  text-align: center;
+}
 #extFeatures3-j .mbr-iconfont-features4 {
   color: #ffffff !important;
 }
@@ -839,7 +846,7 @@ h6,
 }
 #menu-q .link[aria-expanded="true"],
 #menu-q .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header2-18 .mbr-section-title {
   font-size: 30px;
@@ -923,7 +930,7 @@ h6,
 }
 #menu-1d .link[aria-expanded="true"],
 #menu-1d .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header1-1g .mbr-section-lead SPAN {
   font-size: 20px;
@@ -1011,7 +1018,7 @@ h6,
 }
 #menu-1k .link[aria-expanded="true"],
 #menu-1k .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #extHeader3-1p SPAN {
   font-family: 'Montserrat', sans-serif;
@@ -1104,7 +1111,7 @@ h6,
 }
 #menu-1v .link[aria-expanded="true"],
 #menu-1v .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #contacts1-1w STRONG {
   color: #ffffff;
@@ -1177,7 +1184,7 @@ h6,
 }
 #menu-21 .link[aria-expanded="true"],
 #menu-21 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #header3-28 .mbr-section-title,
 #header3-28 .mbr-section-subtitle {
@@ -1272,7 +1279,7 @@ h6,
 }
 #menu-2a .link[aria-expanded="true"],
 #menu-2a .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #2969b0!important;
 }
 #features1-2f .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #535353;
@@ -1292,6 +1299,7 @@ h6,
 #footer1-2c P {
   color: #ffffff;
 }
+
 
 
 #menu-2g .hide-buttons .nav-btn {
@@ -1362,49 +1370,236 @@ h6,
 #msg-box8-2l p {
   color: #fff;
 }
-#extShop1-2n .galleryItem h4:hover {
+#extShop1-2o .galleryItem h4:hover {
   color: #2969b0;
 }
-#extShop1-2n .mbr-gallery-filter ul li.active {
+#extShop1-2o .mbr-gallery-filter ul li.active {
   color: #2969b0;
 }
-#extShop1-2n .mbr-gallery-filter ul li:hover {
+#extShop1-2o .mbr-gallery-filter ul li:hover {
   color: #2969b0;
 }
-#extShop1-2n .mbr-gallery-filter ul li:before {
+#extShop1-2o .mbr-gallery-filter ul li:before {
   background: #2969b0;
 }
-#extShop1-2n .min-toggle:hover,
-#extShop1-2n .max-toggle:hover {
+#extShop1-2o .min-toggle:hover,
+#extShop1-2o .max-toggle:hover {
   background-color: #2969b0;
 }
-#extShop1-2n .shop-title {
+#extShop1-2o .shop-title {
   font-family: Montserrat;
 }
-#extShop1-2n .categories-titles .mbr-gallery-filter ul li {
+#extShop1-2o .categories-titles .mbr-gallery-filter ul li {
   font-family: Montserrat;
 }
-#extShop1-2n .max-input {
+#extShop1-2o .max-input {
   font-family: Montserrat;
 }
-#extShop1-2n .min-input {
+#extShop1-2o .min-input {
   font-family: Montserrat;
 }
-#extShop1-2n .item-title {
+#extShop1-2o .item-title {
   font-family: Montserrat;
+  font-size: 30px;
 }
-#extShop1-2n .item-subtitle {
+#extShop1-2o .item-subtitle {
   font-family: Lora;
 }
-#extShop1-2n .card-description {
+#extShop1-2o .card-description {
   font-family: Roboto;
 }
-#extShop1-2n .shop-item-price {
+#extShop1-2o .shop-item-price {
   font-family: Montserrat;
+}
+#extShop1-2o .item-title P {
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: left;
 }
 #contacts1-2h STRONG {
   color: #ffffff;
 }
 #footer1-2i P {
+  color: #ffffff;
+}
+
+
+
+#menu-2p .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2p .navbar-caption {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'PT Serif', serif;
+}
+#menu-2p .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2p .close-icon::before,
+#menu-2p .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2p .link,
+#menu-2p .dropdown-item {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+}
+#menu-2p .link {
+  font-size: 1.05rem;
+}
+#menu-2p .dropdown-item,
+#menu-2p .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#menu-2p .link:hover,
+#menu-2p .dropdown-item:hover,
+#menu-2p .link:focus,
+#menu-2p .dropdown-item:focus {
+  color: #2969b0;
+}
+#menu-2p .link[aria-expanded="true"],
+#menu-2p .dropdown-menu {
+  background: #00274e;
+}
+#menu-2p .nav-dropdown-sm .link:focus,
+#menu-2p .nav-dropdown-sm .link:hover,
+#menu-2p .nav-dropdown-sm .dropdown-item:focus,
+#menu-2p .nav-dropdown-sm .dropdown-item:hover {
+  background: #003972!important;
+}
+#menu-2p .navbar,
+#menu-2p .nav-dropdown-sm,
+#menu-2p .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2p .nav-dropdown-sm .dropdown-menu {
+  background: #004181;
+}
+#menu-2p .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2p .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2p .bg-color.transparent.opened .link:hover,
+#menu-2p .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#menu-2p .link[aria-expanded="true"],
+#menu-2p .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#extFeatures12-2y .card-number {
+  color: #2969b0;
+}
+#extFeatures12-2y .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-2y .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-2y .card-subtitle {
+  font-size: 20px;
+  font-family: 'Lora', serif;
+  text-align: right;
+}
+#extFeatures12-2y H4 {
+  text-align: left;
+}
+#extFeatures12-2y P {
+  text-align: left;
+}
+#extFeatures12-2x .card-number {
+  color: #2969b0;
+}
+#extFeatures12-2x .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-2x .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-2x .card-subtitle {
+  text-align: right;
+  font-size: 20px;
+}
+#contacts1-2q STRONG {
+  color: #ffffff;
+}
+#footer1-2r P {
+  color: #ffffff;
+}
+
+
+#extHeader4-33 H2 {
+  font-size: 30px;
+}
+#menu-2z .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-2z .navbar-caption {
+  color: #ffffff;
+  font-size: 22px;
+  font-family: 'PT Serif', serif;
+}
+#menu-2z .navbar-toggler {
+  color: #ffffff;
+}
+#menu-2z .close-icon::before,
+#menu-2z .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-2z .link,
+#menu-2z .dropdown-item {
+  color: #ffffff;
+  font-family: 'PT Serif', serif;
+}
+#menu-2z .link {
+  font-size: 1.05rem;
+}
+#menu-2z .dropdown-item,
+#menu-2z .nav-dropdown-sm .link {
+  font-size: 1.137rem;
+}
+#menu-2z .link:hover,
+#menu-2z .dropdown-item:hover,
+#menu-2z .link:focus,
+#menu-2z .dropdown-item:focus {
+  color: #2969b0;
+}
+#menu-2z .link[aria-expanded="true"],
+#menu-2z .dropdown-menu {
+  background: #00274e;
+}
+#menu-2z .nav-dropdown-sm .link:focus,
+#menu-2z .nav-dropdown-sm .link:hover,
+#menu-2z .nav-dropdown-sm .dropdown-item:focus,
+#menu-2z .nav-dropdown-sm .dropdown-item:hover {
+  background: #003972!important;
+}
+#menu-2z .navbar,
+#menu-2z .nav-dropdown-sm,
+#menu-2z .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-2z .nav-dropdown-sm .dropdown-menu {
+  background: #004181;
+}
+#menu-2z .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-2z .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-2z .bg-color.transparent.opened .link:hover,
+#menu-2z .bg-color.transparent.opened .link:focus {
+  color: #2969b0;
+}
+#menu-2z .link[aria-expanded="true"],
+#menu-2z .dropdown-item[aria-expanded="true"] {
+  color: #2969b0!important;
+}
+#contacts1-30 STRONG {
+  color: #ffffff;
+}
+#footer1-31 P {
   color: #ffffff;
 }
