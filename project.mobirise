@@ -238,7 +238,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x40026.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x40030.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4033,7 +4033,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x93327.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x93331.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4060,7 +4060,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x93328.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x93332.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4087,7 +4087,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x93329.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x93333.jpg",
               "link": "",
               "alt": "",
               "title": "",
