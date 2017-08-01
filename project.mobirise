@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "contact us.html",
     "name": "01_모던",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 120,
+    "uniqCompNum": 122,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -132,7 +132,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -140,6 +140,11 @@
             "Extension"
           ],
           "_name": "extHeader11",
+          "_styles": {
+            "SPAN": {
+              "font-size": "60px"
+            }
+          },
           "_anchor": "extHeader11-37",
           "_params": {
             "animText1": "SCIENCE",
@@ -147,16 +152,18 @@
             "animText3": "NATURE",
             "typeSpeed": 60,
             "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader11-bg.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader11_bg.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/x-iCrruBxJA?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.1,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "showTitle": true,
             "showText": false,
@@ -165,12 +172,7 @@
           },
           "title": "CLEATER&nbsp;<br>IS",
           "text": "<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>",
-          "_styles": {
-            "SPAN": {
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
         },
         {
           "_styles": {
@@ -222,6 +224,22 @@
           },
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/bgbg-1-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<font color=\"#000000\">BGBG USA CLEATER AGENT</font>",
+          "subtitle1": "2017. 07. 15",
+          "caption1": "킅리터 에이전트",
+          "button1": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media2": {
+            "image": {
               "src": "@PROJECT_PATH@/assets/images/-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
@@ -232,13 +250,13 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "말태반 원료 특허등록 완료",
-          "subtitle1": "2017. 06. 22",
-          "caption1": "항주름 효능을 가지는 저분자 말태반 <br>효소가수분해물의 제조방법 <br>6월 22일 특허등록 완료<br>",
-          "button1": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media2": {
+          "title2": "말태반 원료 특허등록 완료",
+          "subtitle2": "2017. 06. 22",
+          "caption2": "항주름 효능을 가지는 저분자 말태반 <br>효소가수분해물의 제조방법 <br>6월 22일 특허등록 완료<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-600x40030.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-600x40016.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -248,11 +266,11 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "클리터 상표,서비스표등록 완료",
-          "subtitle2": "2017. 06. 07",
-          "caption2": "클리터 CLEATER 브랜드<br>제 03 류 등 2개류 화장품등 40건<br>상표법에 따라 상표등록이 완료<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media3": {
+          "title3": "클리터 상표,서비스표등록 완료",
+          "subtitle3": "2017. 06. 07",
+          "caption3": "클리터 CLEATER 브랜드<br>제 03 류 등 2개류 화장품등 40건<br>상표법에 따라 상표등록이 완료<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/fda-600x400.jpg",
               "class": "card-img-top",
@@ -264,25 +282,9 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "클리터 제품 미국 FDA 등록",
-          "subtitle3": "2017. 04. 06",
-          "caption3": "MASKPACK 4종, WATER DROP, BODY D-TOX<br>PLACENTA CREAM, AMPOULE<br>FDA등록 완료&nbsp;<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/6-600x400.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "title4": "CLEATER 신제품 6종 출시",
-          "subtitle4": "2016. 11. 15",
-          "caption4": "MASKPACK 4종, WATER DROP, BODY D-TOX<br>PLACENTA CREAM, AMPOULE<br>신제품 출시&nbsp;<br>",
+          "title4": "클리터 제품 미국 FDA 등록",
+          "subtitle4": "2017. 04. 06",
+          "caption4": "MASKPACK 4종, WATER DROP, BODY D-TOX<br><b>PLACENTA CREAM, AMPOULE</b><br>FDA등록 완료&nbsp;<br>",
           "button4": "<a data-app-btn=\"true\" href=\"NEWS.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media5": {
             "image": {
@@ -307,7 +309,15 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#2969b0"
+            }
+          }
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -922,7 +932,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [
@@ -1439,7 +1449,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [
@@ -1827,7 +1837,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -2455,7 +2465,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [
@@ -2623,7 +2633,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [
@@ -3040,7 +3050,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [
@@ -3394,7 +3404,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_styles": {
@@ -3772,7 +3782,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [
@@ -3847,6 +3857,9 @@
             },
             "P": {
               "text-align": "left"
+            },
+            "B": {
+              "color": "#3d8eb9"
             }
           },
           "alias": "mobirise3-blocks/components",
@@ -3909,33 +3922,6 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "number2": "02",
-          "title2": "마스크팩 4종 샘플&nbsp;<span style=\"color: inherit; line-height: 25.65px; background-color: transparent;\">미국 FDA 등록</span>",
-          "subtitle2": "2016. 12. 20",
-          "caption2": "클리터 마스크팩 AWP 외 4종 샘플이 미국 FDA에 등록됬다.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/fda-1400x933.jpg",
               "link": "",
               "alt": "",
@@ -3954,10 +3940,37 @@
               "size": 0
             }
           },
+          "number2": "02",
+          "title2": "2017년 미국 1차 수출",
+          "subtitle2": "2016. 12. 20",
+          "caption2": "17년 2월 7일 미국 1차 수출에 성공하였다.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
           "number3": "03",
-          "title3": "2017년 미국 1차 수출",
-          "subtitle3": "2017. 02. 07",
-          "caption3": "17년 2월 7일 미국 1차 수출에 성공하였다.",
+          "title3": "클리터 제품 미국 FDA 등록",
+          "subtitle3": "2017. 04. 06",
+          "caption3": "MASKPACK 4종, WATER DROP, BODY D-TOX<br><b>PLACENTA CREAM, AMPOULE</b><br>FDA등록 완료&nbsp;<br>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -4033,7 +4046,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x93331.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x93317.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4060,7 +4073,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x93332.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x93318.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4087,7 +4100,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-1400x93333.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-1400x93319.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -4214,14 +4227,19 @@
             "Extension"
           ],
           "_name": "extHeader4",
+          "_styles": {
+            "H2": {
+              "font-size": "30px"
+            }
+          },
           "_anchor": "extHeader4-33",
           "_params": {
             "formBorder": true,
-            "formColor": "#595959",
-            "formStyle": "light",
+            "formColor": "#ffffff",
+            "formStyle": "dark",
             "parallax": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img-extheader4-bg.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4-2000x1333.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -4229,8 +4247,8 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
-            "overlayColor": "@primaryColor",
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -4294,12 +4312,7 @@
             }
           },
           "title3": "<span style=\"font-size: 1.5rem; line-height: 1.1;\">FAST ANSWER</span><br>",
-          "text2": "최대한 신속하게 답변 드리도록 하겠습니다. 감사합니다.",
-          "_styles": {
-            "H2": {
-              "font-size": "30px"
-            }
-          }
+          "text2": "최대한 신속하게 답변 드리도록 하겠습니다. 감사합니다."
         },
         {
           "alias": "mobirise3-blocks/components",
@@ -4449,7 +4462,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">SJ INTERNATIONAL, INC.</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"overview.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">COMPANY</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"overview.html\">Overview</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"brand.html\">Brand</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"history.html\">History</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">R&amp;D</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"laboratory.html\">Laboratory</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"researchfield.html\">Research Field</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"patent.html\" aria-expanded=\"false\">Patent</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"product.html\" aria-expanded=\"false\">PRODUCT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"NEWS.html\" aria-expanded=\"false\">NEWS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"contact us.html\">CONTACT US</a></li>"
         },
         {
           "_tags": [

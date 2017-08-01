@@ -744,6 +744,12 @@ h6,
 #header3-39 .mbr-section-subtitle {
   text-align: center;
 }
+#features3-3b P {
+  color: #000000;
+}
+#features3-3b B {
+  color: #2969b0;
+}
 #extFeatures3-j .mbr-iconfont-features4 {
   color: #ffffff !important;
 }
@@ -1387,29 +1393,29 @@ h6,
   background-color: #2969b0;
 }
 #extShop1-2o .shop-title {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-2o .categories-titles .mbr-gallery-filter ul li {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-2o .max-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-2o .min-input {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-2o .item-title {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
   font-size: 30px;
 }
 #extShop1-2o .item-subtitle {
-  font-family: Lora;
+  font-family: 'Lora', serif;
 }
 #extShop1-2o .card-description {
-  font-family: Roboto;
+  font-family: 'Roboto', sans-serif;
 }
 #extShop1-2o .shop-item-price {
-  font-family: Montserrat;
+  font-family: 'Montserrat', sans-serif;
 }
 #extShop1-2o .item-title P {
   font-size: 30px;
@@ -1508,6 +1514,9 @@ h6,
 }
 #extFeatures12-2y P {
   text-align: left;
+}
+#extFeatures12-2y B {
+  color: #3d8eb9;
 }
 #extFeatures12-2x .card-number {
   color: #2969b0;
